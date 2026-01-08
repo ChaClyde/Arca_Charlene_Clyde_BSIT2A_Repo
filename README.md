@@ -1,18 +1,18 @@
-Portfolio Website
+# Portfolio Website
 
-About
+## 📌 About
 This repository contains my personal portfolio website.  
-It showcases my projects, skills, and achievements as a BSIT student.
 
-Technologies Used
+## 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-Features
+## 📂 Features
 - Responsive design
 - Project showcase
 - Contact information
 
-Author
-Charlene Clyde Arca
+## 👩‍💻 Author
+**Charlene Clyde Arca**  
+BSIT 2A Student
